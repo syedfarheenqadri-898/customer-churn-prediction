@@ -85,11 +85,3 @@ The analysis shows associations between these factors and churn; it does not est
 - Preprocessing was performed before the train-test split, resulting in minor data leakage.
 - Further validation and optimization would be required before real-world deployment.
 
-## Repository Structure
-
-```text
-customer-churn-prediction/
-│
-├── Customer_Churn_Prediction_Capstone.ipynb
-├── IDRA_Capstone_Project_Report.docx
-├── README.md
